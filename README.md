@@ -10,7 +10,7 @@ To install, run the following commands on your conda prompt:
 5. Type in the command: conda env create -f GNNsAndTDA.yml -n FiltrationsForGNNs
 6. Type in the command: conda activate FiltrationsForGNNs
 7. Type in the command: jupyter notebook
-8. Open in the pop up browser window: TODO: FILL HERE
+8. Open in the pop up browser window: example_network.ipynb
 9. Click Kernel > Restart & Run All 
 10. Check if all the cells with numbers run. If they do, you're all ready!
 
