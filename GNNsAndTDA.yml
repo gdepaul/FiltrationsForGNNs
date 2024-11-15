@@ -25,7 +25,6 @@ dependencies:
     - torchvision
     - torchaudio
     - pytorch_geometric
-    - pytorch-model-summary
     - seaborn
     - openpyxl
     - plotly
