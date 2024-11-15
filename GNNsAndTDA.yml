@@ -1,4 +1,4 @@
-name: densitda
+name: FiltrationsForGNNs
 channels:
   - apple
   - conda-forge
